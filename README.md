@@ -10,7 +10,7 @@ Voy a utilizar como fuente principal el [repositorio de datos abiertos del ayunt
 
 Filtrando por el tipo de licencia y por el estatus de la misma obtenemos que en Junio 2023 hay un total de 374 licencias activas en el municipio para el epígrafe 920002: “JUEGOS DE AZAR Y APUESTAS DE GESTION PRIVADA (BINGOS, CASINOS, MAQUINAS TRAGAPERRAS)”
 
-![Mapa locales apuestas junio 2023!](./mapa_junio23.png)
+[![Mapa locales apuestas junio 2023!](./mapa_junio23.png)](https://www.google.com/maps/d/edit?mid=1XRuIM_dxDUN_FDHkY3wOC5iE17RRnOg&usp=sharing)
 
 ### Metodología
 Durante los próximos cuatro años analizaré la variación de los presentes datos, en qué barrios se centra este fenómeno y si efectivamente hay una relación con la renta.
