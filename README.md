@@ -35,4 +35,4 @@ El primer mapa está realizado con **Google Maps** a partir de un volcado de SQL
 
 **Google Looker Studio** para el resto de los gráficos
 ### Metodología
-Durante los próximos cuatro años analizaré la variación de los presentes datos, en qué barrios se centra este fenómeno y si efectivamente hay una relación con la renta.
+Durante los próximos cuatro años analizaré la variación de los presentes datos, en qué barrios se centra este fenómeno y si cambia la distribución de este tipo de negocio.
